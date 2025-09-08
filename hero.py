@@ -21,6 +21,9 @@ class Hero:
         self.name = name
         self.health = 600
         self.attack_power = random.randint(15,35)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     
 
